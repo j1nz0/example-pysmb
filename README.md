@@ -6,3 +6,6 @@ pysmb is an experimental SMB/CIFS library written in Python. It implements the c
 
 * Python package: https://pypi.org/project/pysmb/
 * Documentation: https://pysmb.readthedocs.io/en/latest/index.html
+
+
+Code works with Python3. Version 2.x has not been testet yet.
